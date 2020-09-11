@@ -6,6 +6,8 @@ Requirements: iOS 10.0+ / macOS 10.12+ / tvOS 10.0+ / watchOS 3.0+ Xcode 10.2+ S
 
 Implementation: Architecture: MVVMC (ModelViewViewModelCoordinator)
 
+   MVVM-C has a lot of advantages and it can improve the quality of your application.
+
 Frameworks Used: Foundation, UIKit
 
 UIFunctional Implementations: 
@@ -14,3 +16,5 @@ UIFunctional Implementations:
 3) Details has been presented in detail viewcontroler 
 4) Used Navigation Controller for navigating from page to page 
 5) Implementation for Rest API data download and json parsing
+
+
